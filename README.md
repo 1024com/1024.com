@@ -8,6 +8,11 @@
 
 **微信号：www_1024_com**
 
+<p>或扫描下面的微信二维码：</p>
+
+<p>
+<img src="https://github.com/1024monkey/1024.com/blob/master/1024.com.jpg" width="100" height="100" alt="1024微信二维码" />
+</p>
 ---
 
 **念奴娇·程序员怀古**  
