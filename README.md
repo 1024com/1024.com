@@ -1,6 +1,7 @@
 **https://1024.com**
 
-Build the future with AI
+Build the future with AI.
+
 Discover the amazing AI-powered products and developers.
 
 ---
