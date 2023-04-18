@@ -1,18 +1,7 @@
-**1024只猴子**  
-
 **https://1024.com**
 
-1024.com是一个仰望星空的地方，汇聚了很多有趣的人、可爱的人，有极客、程序员、开发者、创业者、设计师、AI科学家、区块链爱好者、星际探索者等等，他们来自天南海北、地球内外。
-
-欢迎新朋友加入1024.com，讲述你的故事，展示你的作品，分享你的知识，参加我们的线下活动。有时候我们还会发放1024福利，包括T恤衫、卫衣、棒球帽、小猴公仔等等。
-
-请加monkey微信获取 <font color=tomato>注册邀请码</font>。
-
-**微信号：www_1024_com**
-
-或扫描下面的微信二维码：
-
-<img src="https://github.com/1024monkey/1024.com/blob/master/1024.com.jpg" width="150" height="150" alt="1024微信二维码" />
+Build the future with AI
+Discover the amazing AI-powered products and developers.
 
 ---
 
